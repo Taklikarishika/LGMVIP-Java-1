@@ -1,3 +1,7 @@
+// Currency Converter
+// Name : Ishika Taklikar
+// Task 1: Currency Converter 
+
 import java.util.*;
 import java.text.DecimalFormat;
 
