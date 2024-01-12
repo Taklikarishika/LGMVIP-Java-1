@@ -73,6 +73,7 @@ public class Currency_Converter{
             rupee = KWD * 251.96;
             System.out.println("Rupees : "+f.format(rupee));
             dollar = KWD * 3.26;
+            
             System.out.println("Dollar : "+f.format(dollar));
             euro = KWD * 3.13;
             System.out.println("Euro : "+f.format(euro));
@@ -86,3 +87,6 @@ public class Currency_Converter{
 
     }
 }
+
+
+
